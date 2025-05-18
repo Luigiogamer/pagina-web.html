@@ -1,0 +1,24 @@
+body {
+
+background-image: url(https://img.freepik.com/vector-gratis/fondo-acuarela-abstracta-acuarela-pintada-mano_23-2149017494.jpg?semt=ais_hybrid&w=740);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+body {
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    
+}
+body {
+    list-style: disc;
+    padding: 0;
+    margin: 0;
+}
+li { 
+  margin-bottom: 10px;
+}
